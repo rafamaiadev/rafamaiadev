@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Como Desenvolvedor Web e estudante de Análise e Desenvolvimento de Sistemas, estou sempre buscando desafios para aprimorar minhas habilidades e conhecimentos em programação e tecnologia. Com uma paixão pela resolução de problemas complexos e a capacidade de trabalhar em equipe, estou sempre em busca de novos projetos e oportunidades para crescer profissionalmente.
+Como Desenvolvedor back-end e estudante de Análise e Desenvolvimento de Sistemas, estou sempre buscando desafios para aprimorar minhas habilidades e conhecimentos em programação e tecnologia. Com uma paixão pela resolução de problemas complexos e a capacidade de trabalhar em equipe, estou sempre em busca de novos projetos e oportunidades para crescer profissionalmente.
 
 - 🔭 Desenvolvedor back-end com foco em Java !
 - ⚡ Possuo um pensamento analítico, comunicação eficaz e capacidade de resolver problemas!
