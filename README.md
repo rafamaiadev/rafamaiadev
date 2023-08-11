@@ -34,5 +34,5 @@ Como Desenvolvedor back-end e estudante de Análise e Desenvolvimento de Sistema
 </div>
 
 ## Contato
-<a href="https://www.linkedin.com/in/raphaelmaia27" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:rafa.maia27@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/raphaelmaia27" target="_blank"><img width="100" height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:rafamaiadev@gmail.com"><img width="100" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
