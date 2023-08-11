@@ -6,10 +6,10 @@ Como Desenvolvedor back-end e estudante de Análise e Desenvolvimento de Sistema
 - ⚡ Possuo um pensamento analítico, comunicação eficaz e capacidade de resolver problemas!
 ## Principais tecnologias
 <a href="https://github.com/rafamaiadev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafamaiadev&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafamaiadev&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafamaiadev&layout=compact&langs_count=8&card_width=auto&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafamaiadev&layout=compact&langs_count=8&card_width=auto&show_icons=true&theme=dracula" />
 </a>
 
 <div style="display: inline_block"><br>
