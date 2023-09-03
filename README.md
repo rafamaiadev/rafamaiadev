@@ -1,9 +1,11 @@
 ## Sobre mim
 
-Como Desenvolvedor back-end e estudante de Análise e Desenvolvimento de Sistemas, estou sempre buscando desafios para aprimorar minhas habilidades e conhecimentos em programação e tecnologia. Com uma paixão pela resolução de problemas complexos e a capacidade de trabalhar em equipe, estou sempre em busca de novos projetos e oportunidades para crescer profissionalmente.
+Desenvolvedor de software focado em backend.
 
-- 🔭 Desenvolvedor back-end com foco em Java !
-- ⚡ Possuo um pensamento analítico, comunicação eficaz e capacidade de resolver problemas!
+Apaixonado por tecnologia e programação, Possuo projetos pessoais que abrangem a criação de APIs REST e gerenciamento de bancos de dados, envolvendo habilidades em: lógica e algoritmos, Estruturas de Dados,Java, Spring Boot, Spring Data Jpa, MySQL.
+
+Além disso, possuo habilidades essenciais para trabalhar em time, como: Comunicação efetiva, Flexibilidade, Pensamento analítico, foco no resultado e atenção aos detalhes.
+
 ## Principais tecnologias
 <a href="https://github.com/rafamaiadev/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafamaiadev&show_icons=true&theme=dracula" />
