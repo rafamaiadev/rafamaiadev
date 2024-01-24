@@ -1,10 +1,6 @@
 ## Sobre mim
 
-Desenvolvedor de software focado em backend.
-
-Apaixonado por tecnologia e programação, Possuo projetos pessoais que abrangem a criação de APIs REST e gerenciamento de bancos de dados, envolvendo habilidades em: lógica e algoritmos, Estruturas de Dados,Java, Spring Boot, Spring Data Jpa, MySQL.
-
-Além disso, possuo habilidades essenciais para trabalhar em time, como: Comunicação efetiva, Flexibilidade, Pensamento analítico, foco no resultado e atenção aos detalhes.
+Desenvolvedor de software na Quanta Consultoria.
 
 ## Principais tecnologias
 <a href="https://github.com/rafamaiadev/github-readme-stats">
